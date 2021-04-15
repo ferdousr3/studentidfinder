@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.heading{
+    padding: auto 100px ;
+}
+.body-view{
+    padding: 200px;
+}

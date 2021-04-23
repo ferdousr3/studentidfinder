@@ -1,18 +1,32 @@
 *{
     margin: 0;
     padding: 0;
+    background-color: #000000;
 
 }
-
+.heading h1{
+    font-size: 2.5rem;
+    padding-bottom: 2.5rem;
+}
 .project{
    background-color: #000000;
    color: #fff;
    height: 200px ;
    width: 100%;
-  display: flex;
-   justify-content: center;
-   align-items: center;
-   border: 1px solid #000000;
+   display: block;
+   text-align: center;
+   padding-top:100px;
 
+}
+#studentid{
+    border: 1px solid #ffffff;
+    padding: 7.5px 15px;
+    background-color: #fff;
+}
+#btn{
+    padding: 9px 20px;
+    border: none;
+    border-radius: 3px;
+    background-color: #fff;
 }
 
